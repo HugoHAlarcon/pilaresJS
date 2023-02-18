@@ -1,8 +1,8 @@
 /* 
-   Título:       Sopa de letras.
-   Descripción:  Primer programa de curso JavaScript - Pilares.
-   Objetivo:     Usar conceptos básicos, estructuras de control y ciclos.
-   Elaborado:    Hugo Hernández Alarcón (H2a).
+   Título:       Sopa de letras
+   Descripción:  Primer programa de curso JavaScript - Pilares
+   Objetivo:     Usar conceptos básicos, estructuras de control y ciclos
+   Elaborado:    Hugo Hernández Alarcón (H2a)
    Fecha:        15.febrero.2023
 */
 
